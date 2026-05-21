@@ -90,15 +90,5 @@
 		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
 			alt="tamersali" /></a>
 </p>
-<br><br><br>
-<p align="left">
-	<img align="left" style="margin: 1rem 0;"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=tamersali&show_icons=true&locale=en&layout=compact"
-		alt="tamersali" />
-</p>
-<br><br><br><br><br><br>
 
-<p align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamersali&show_icons=true&locale=en"
-		alt="tamersali" />
-</p>
+ 
