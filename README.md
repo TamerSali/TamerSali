@@ -7,10 +7,6 @@
 		alt="tamersali" />
 </p>
 
-<p align="left">
- 		<img src="https://github-profile-trophy.vercel.app/?username=tamersali" alt="tamersali" /> 
-</p>
-
 
 - 🔭 I’m currently working on Shopify Store builds.
 
